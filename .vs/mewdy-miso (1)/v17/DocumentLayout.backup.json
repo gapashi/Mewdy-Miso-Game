@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|c:\\users\\enzos\\desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\gamescene\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\clockscene\\clockdialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clockscene\\clockdialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\loadingscene\\loadingscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadingscene\\loadingscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\gamescene\\scenescroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\scenescroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\gamescene\\fishinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\fishinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\gamescene\\beefinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\beefinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\gamescene\\chickeninteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\chickeninteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\global\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\global\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\gamescene\\bowlinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\bowlinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\menuscene\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuscene\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\global\\cursorworldinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\global\\cursorworldinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\global\\cursorinteractzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\global\\cursorinteractzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\menuscene\\menuuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuscene\\menuuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\assets\\scripts\\clockscene\\timeprogressioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD58D-94C7-A18B-D531-DCA8063F2DBB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clockscene\\timeprogressioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\FoodItemInteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameScene\\FoodItemInteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FishInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\FishInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\FishInteraction.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\FishInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\FishInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:53:49.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BeefInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\BeefInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\BeefInteraction.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\BeefInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\BeefInteraction.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowFIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:38:44.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BowlInteract.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\BowlInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\BowlInteract.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\BowlInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\BowlInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:46:49.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CursorWorldInteract.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\Global\\CursorWorldInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Global\\CursorWorldInteract.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\Global\\CursorWorldInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Global\\CursorWorldInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:32:07.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CursorInteractZone.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\Global\\CursorInteractZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Global\\CursorInteractZone.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\Global\\CursorInteractZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Global\\CursorInteractZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:22:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\DialogueManager.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAkwDQBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:15:27.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClockDialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\ClockScene\\ClockDialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClockScene\\ClockDialogueManager.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\ClockScene\\ClockDialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClockScene\\ClockDialogueManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:55:35.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChickenInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\ChickenInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\ChickenInteraction.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\ChickenInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\ChickenInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:55:36.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FoodItemInteractor.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\FoodItemInteractor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\FoodItemInteractor.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\FoodItemInteractor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\FoodItemInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:07:36.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoadingSceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\LoadingScene\\LoadingSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingScene\\LoadingSceneManager.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\LoadingScene\\LoadingSceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadingScene\\LoadingSceneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:36:31.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SceneFader.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\Global\\SceneFader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Global\\SceneFader.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\Global\\SceneFader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Global\\SceneFader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:34:06.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneScroller.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\SceneScroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\SceneScroller.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\GameScene\\SceneScroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\SceneScroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:01:57.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\MenuScene\\MenuUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuScene\\MenuUIManager.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\MenuScene\\MenuUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuScene\\MenuUIManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:53:12.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\MenuScene\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuScene\\SettingsManager.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\MenuScene\\SettingsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuScene\\SettingsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:37:26.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimeProgressionController.cs",
+              "DocumentMoniker": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\ClockScene\\TimeProgressionController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClockScene\\TimeProgressionController.cs",
+              "ToolTip": "C:\\Users\\enzos\\Desktop\\feed-your-cat\\mewdy-miso\\mewdy-miso (1)\\Assets\\Scripts\\ClockScene\\TimeProgressionController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClockScene\\TimeProgressionController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwE4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:27:47.643Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

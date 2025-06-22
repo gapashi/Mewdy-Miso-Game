@@ -1,0 +1,242 @@
+{
+  "scenes": [
+    {
+      "sceneName": "clockScene",
+      "lines": [
+        {
+          "type": "narration",
+          "text": "John wakes up with a yawn, which is soon followed by the sounds of his lips smacking together.",
+          "audio": ["John_0010_tk01.mp3", "John_0020_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "A soft snort escapes him. His voice sounds tired.",
+          "audio": ["John_0030_tk01.mp3"]
+        },
+        {
+          "type": "dialogue",
+          "text": "Huh? Oh, I'd better get up and feed Miso.",
+          "audio": ["John_0040_tk01.mp3"]
+        }
+      ]
+    },
+    {
+      "sceneName": "gameScene",
+      "lines": [
+        {
+          "type": "dialogue",
+          "text": "Ah! There you are. Good morning, Miso. How are you doing today?",
+          "audio": ["John_0050_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso replies with a meow.",
+          "audio": ["Tiggy1.wav"],
+          "spriteTrigger": "miso_meow"
+        },
+        {
+          "type": "narration",
+          "text": "He's sitting on the kitchen counter, ready to be fed.",
+          "audio": [],
+          "spriteTrigger": "miso_idle"
+        },
+        {
+          "type": "dialogue",
+          "text": "Oh, are you waiting for your breakfast? Are you trying to tell me that you are starving, boy?",
+          "audio": ["John_0060_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso replies with a chipper meow. He looks happy to be there. His tail swaying from side to side.",
+          "audio": ["Tiggy_NeverHadFoodWails.wav"],
+          "spriteTrigger": "miso_meow"
+        },
+        {
+          "type": "dialogue",
+          "text": "That's what I thought. Always acting like you don't get fed. What an awful owner I am!",
+          "audio": ["John_0070_tk01.mp3"],
+          "spriteTrigger": "miso_idle"
+        },
+        {
+          "type": "narration",
+          "text": "A series of grunts is followed. John is hunting for the piece of paper left with instructions on what to feed Miso.",
+          "audio": [
+            "John_0080_tk01.mp3",
+            "John_0081_tk01.mp3",
+            "John_0082_tk01.mp3",
+            "John_0083_tk01.mp3",
+            "John_0084_tk01.mp3",
+            "John_0085_tk01.mp3",
+            "John_0086_tk01.mp3",
+            "John_0087_tk01.mp3"
+          ]
+        },
+        {
+          "type": "dialogue",
+          "text": "Where is this piece of paper she left? I'm always losing things.. Miso, wanna tell me what you want?",
+          "audio": ["John_0090_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso does not reply, simply stares.",
+          "audio": [],
+          "spriteTrigger": "miso_idle"
+        },
+        {
+          "type": "dialogue",
+          "text": "I didn't think so.. Well, it seems I'm going to have to guess what you like. Such a fussy wee lad, you are.",
+          "audio": ["John_0100_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso meows at that.",
+          "audio": ["Tiggy3.wav"],
+          "spriteTrigger": "miso_meow"
+        },
+        {
+          "type": "dialogue",
+          "text": "I'm glad you agree with me.",
+          "audio": ["John_0110_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "John opens the kitchen cabinet and starts looking for food. He finds a few options.",
+          "audio": ["Mewdy Miso - Selection.wav"],
+          "spriteTrigger": "miso_idle",
+          "stopHere": true
+        },
+        {
+          "type": "dialogue",
+          "text": "Oh, this beef has real gravy in it. Doesn't that sound nice, boy?",
+          "audio": ["John_0120_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso stares. John proceeds to give Miso a bowl of wet, beef food. This causes a negative reaction from the cat.",
+          "audio": ["Mewdy Miso - Dist Buildup.wav"],
+          "spriteTrigger": "miso_angry"
+        },
+        {
+          "type": "dialogue",
+          "text": "You don't like that? Uh..",
+          "audio": ["John_0130_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso does not look happy. He's up to something.",
+          "audio": []
+        },
+        {
+          "type": "dialogue",
+          "text": "Wait. Miso, no! Not the..",
+          "audio": ["John_0140_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso proceeds to drop a glass from the counter, and it lands on the floor.",
+          "audio": []
+        },
+        {
+          "type": "dialogue",
+          "text": "..Glass.",
+          "audio": ["John_0150_tk01.mp3"]
+        },
+        {
+          "type": "dialogue",
+          "text": "I should’ve kept that piece of paper.",
+          "audio": ["John_0160_tk01.mp3"]
+        },
+        {
+          "type": "dialogue",
+          "text": "Miso does not like beef. Mhm.. What to give you?",
+          "audio": ["John_0170_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "John thinks. Miso is showcased as being unhappy, a bit grumpy-looking.",
+          "audio": []
+        },
+        {
+          "type": "narration",
+          "text": "John chooses fish with a dry mix.",
+          "audio": []
+        },
+        {
+          "type": "dialogue",
+          "text": "You can never go wrong with fish. Maybe we'll add this dry mix. That'll fill you up.",
+          "audio": ["John_0180_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso looks to be incredibly annoyed.",
+          "audio": ["Mewdy Miso - Dist Buildup.wav"],
+          "spriteTrigger": "miso_angry"
+        },
+        {
+          "type": "dialogue",
+          "text": "Okay, that was a no on the fish, and I just remembered... You do not like dry food.",
+          "audio": ["John_0190_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "A long meow escapes Miso from a distance.",
+          "audio": ["evil_miso_meow.mp3"]
+        },
+        {
+          "type": "dialogue",
+          "text": "Miso. Wait.. Where did you go?",
+          "audio": ["John_0200_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso has vanished. John can hear a noise of fabric ripping.",
+          "audio": []
+        },
+        {
+          "type": "dialogue",
+          "text": "Wait, Miso! No! Not the couch!",
+          "audio": ["John_0210_tk01.mp3"]
+        },
+        {
+          "type": "dialogue",
+          "text": "Okay, how about Chicken? This seems like a good choice.",
+          "audio": ["John_0220_tk01.mp3"],
+          "spriteTrigger": "miso_idle"
+        },
+        {
+          "type": "narration",
+          "text": "John chooses Chicken. Miso is instantly happy about this choice.",
+          "audio": ["Mewdy Miso - End.wav"],
+          "spriteTrigger": "miso_meow"
+        },
+        {
+          "type": "dialogue",
+          "text": "Hey! I did it, Miso! Oh, is that tasty, huh?",
+          "audio": ["John_0230_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso finishes his food, and he is happy.",
+          "audio": [],
+          "spriteTrigger": "miso_eating"
+        },
+        {
+          "type": "dialogue",
+          "text": "Did you enjoy that, boy? Wanna snuggle on the couch and watch TV with me?",
+          "audio": ["John_0240_tk01.mp3"]
+        },
+        {
+          "type": "narration",
+          "text": "Miso lets out a contented meow in response.",
+          "audio": ["Tiggy1.wav"],
+          "spriteTrigger": "miso_up"
+        },
+        {
+          "type": "dialogue",
+          "text": "Yeah, okay. Let's go then.",
+          "audio": ["John_0250_tk01.mp3"]
+        }
+      ]
+    }
+  ]
+}
